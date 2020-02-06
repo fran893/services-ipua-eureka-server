@@ -1,0 +1,7 @@
+{
+  "name": "ipau-eureka-server",
+  "description": "Eureka Server para microservicio ipau",
+  "repository": "https://github.com/fran893/ipau-eureka-server",
+  "image": "heroku/java",
+  "addons": [ "heroku-mysql" ]
+}
